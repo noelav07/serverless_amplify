@@ -30,6 +30,10 @@ Upon interacting with buttons or submitting forms hosted on **AWS Amplify**, the
 
 ## Screenshots  
 
+### Architecture Diagram
+
+![Architecture Diagram](./res/arch_amplify.png)
+
 ### 1. Homepage Interface  
 
 ![main page hosted on Amplify](./res/Amplify_frontend.png)
